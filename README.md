@@ -1,7 +1,7 @@
 songs_crawl
 ===========
 
-crawler i've written in Java. 
+Crawler written in Java.
 
 Fetchs the list of all movies and songs from tamilmp3hub website.
 
